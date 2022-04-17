@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on virtual internship programs.
-- 🌱 I’m currently learning Data Analytics.
+- 🌱 I’m currently learning new technologies.
 - 💬 Ask me about business insights.
 - 📫 How to reach me: 
 -                      Twitter - @pritishkshetre
