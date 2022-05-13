@@ -12,6 +12,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I laugh a lot. 
 
+Experiment 1
+
 Experiment 4  install pseudo_facebook.csv and spotify.csv(genres_v2.csv)
 import pandas as pd
 data = {"Roll-num": [10,20,30,40,50,60,70], "Age":[12,10,14,16,18,19,15], 
@@ -40,4 +42,22 @@ import pandas as pd
 df_transposed=df.T
 print(df)
 
-Experiment 5
+
+
+Experiment 5   install datacl.csv
+import pandas as pd
+import numpy as np
+from google.colab import files
+upload=files.upload()
+df=pd.read_csv("datacl.csv")
+print(df.shape)
+print(df.info())
+//droppingduplicates//
+df=df.drop_duplicates('x1',keep='first')
+print(df.shape)
+//missingvalues//
+df=df.isnull().sum()
+print(df)
+//datatransformation//
+df=pd.DataFrame(np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]]), columns=['a','b','c'])
+df.transform(func = lambda x : x * 10)
