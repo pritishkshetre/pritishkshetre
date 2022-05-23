@@ -15,23 +15,22 @@
 
 
 jquery
-<html>
-    <head>
-    <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
-    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
-    <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
-    </head>
-<body>
-    <div data-role="page">
-        <div data-role="head">
-            <h1> </h1>
-        </div>
-        <div data-role="main"></div>
-        <div data-role="footer"></div>     
-    </div>
-    </body>
-
-</html>
+#<html>
+#<head>
+#<link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+#<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+#<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+#</head>
+#<body>
+#<div data-role="page">
+#<div data-role="head">
+#<h1> </h1>
+#</div>
+#<div data-role="main"></div>
+#<div data-role="footer"></div>     
+#</div>
+#</body>
+#</html>
 
 
 
