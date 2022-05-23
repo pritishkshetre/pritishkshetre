@@ -24,7 +24,7 @@ jquery
 <body>
     <div data-role="page">
         <div data-role="head">
-            <h1> Welcome To WAD LAB</h1>
+            <h1> </h1>
         </div>
         <div data-role="main"></div>
         <div data-role="footer"></div>     
