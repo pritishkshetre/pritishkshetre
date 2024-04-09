@@ -1,10 +1,8 @@
 ### Hola, I'm Pritish! 👋
 
-- 🔭 I’m currently working on virtual internship programs.
+- 🔭 I’m currently working at SETS (Society for Electronic Tramsaction and Security)India.
+- 💬 I'm working as Network Security Project Associate.
 - 🌱 I’m currently learning new technologies.
 - 💬 Ask me about business insights.
-- 📫 How to reach me: 
--                      Twitter - @pritishkshetre
--                      Instagram - @pritishkshetre
--                      Facebook - @pritishkshetre
--                      Linked In - @pritish-kshetre
+- Check out my Project in the field of IoT Security
+- Also let me know if you want insight of PG- DITISS
